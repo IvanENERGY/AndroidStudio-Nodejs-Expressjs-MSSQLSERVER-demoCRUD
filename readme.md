@@ -25,4 +25,3 @@
 <ul>
 <li>Basic CRUD operation</li>
 </ul>
-<p>&#128155;Leave a star if u like it!</p>
