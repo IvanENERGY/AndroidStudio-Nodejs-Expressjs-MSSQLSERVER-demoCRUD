@@ -36,16 +36,20 @@
 <img width="259" alt="android3" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/df4b8d95-19bd-405e-b75e-5d370faf201e"><br>
 <span>[android4.png]</span><br>
 <img width="266" alt="android4" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/f182fa52-70fc-42e1-af51-c2a6128ccdfe"><br>
+
 <span>[android4_2.png]</span><br>
+<p>Newly created record is displayed on the list:</p>
 <img width="256" alt="android4_2" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/550293bd-e3e0-47c2-b4bf-bea7ced9c04b"><br>
-<span>[android5.png]</span><br>
-<img width="263" alt="android5" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/c62e1d50-3c9e-4362-9286-8102b52a6a65"><br>
+
 <h2>UPDATE</h2>
-<span>[android6.png]</span><br><p>Make changes to taks name,deadline,reps and file path</p>
+<p>Press UPDATE button on the newly added record</p>
+<span>[android5.png]</span><br><p>The original value of the record is displayed:</p>
+<img width="263" alt="android5" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/c62e1d50-3c9e-4362-9286-8102b52a6a65"><br>
+<span>[android6.png]</span><br><p>Make changes to taks name,deadline,reps and file path:</p>
 <img width="266" alt="android6" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/52fb003d-9c6d-4979-88ea-b257352157ef"><br>
 <span>[android7.png]</span><br>
 <img width="257" alt="android7" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/accbc0f0-02aa-425d-be98-c7f116d172fb"><br>
-<p>Updated result displayed as follows:</p>
+<p>Updated result are displayed:</p>
 <span>[android8.png]</span><br>
 <img width="259" alt="android8" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/73b26b9f-337c-4eba-b594-8ad125ee865a"><br>
 
