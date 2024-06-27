@@ -40,8 +40,8 @@
 <h2>UPDATE</h2>
 <span>[android5.png]</span><br>
 <img width="265" alt="android5" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/594cb8df-11ed-4280-96d8-a7de77f87ce5"><br>
-<p>Make changes to taks name and file path</p>
-<span>[android6.png]</span><br>
+
+<span>[android6.png]</span><br><p>Make changes to taks name and file path</p>
 <img width="251" alt="android6" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/a520eeac-8283-4aa4-9210-190823e859a4"><br>
 <span>[android7.png]</span><br>
 <img width="257" alt="android7" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/accbc0f0-02aa-425d-be98-c7f116d172fb"><br>
