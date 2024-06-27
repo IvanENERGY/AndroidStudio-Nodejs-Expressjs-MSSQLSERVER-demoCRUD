@@ -55,6 +55,6 @@
 
 <h2>DELETE</h2>
 <span>[android9.png]</span><br>
-<img width="262" alt="android9" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/66452e81-a12a-418e-b9bb-7ffbc532d4a1"><br>
+<img width="260" alt="android9" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/9718df11-961b-4d4e-81b4-46199198f91b"><br>
 <span>[android10.png]</span><br>
-<img width="268" alt="android10" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/2c4294d2-f2d3-46d8-9b53-face8733f557"><br>
+<img width="264" alt="android10" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/4f963b4b-7b6b-4155-9ff0-89b1c1d8ed3a"><br>
