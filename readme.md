@@ -15,6 +15,7 @@
   </tr>
 </tbody>
 </table>
+<p>The frontend android application use Retrofit Library for calling APIS</p>
 <p>The backend follows MVC pattern and preform CRUD on the Task Object in database </p>
 <p>Script for Creation of Task Table and Script for stored procedures performing CRUD on Task  are located in <i> /dbscript folder</i> </p>
 <p>Database user configuration:</p>
@@ -39,12 +40,14 @@
 <h2>UPDATE</h2>
 <span>[android5.png]</span><br>
 <img width="265" alt="android5" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/594cb8df-11ed-4280-96d8-a7de77f87ce5"><br>
+<p>Make changes to taks name and file path</p>
 <span>[android6.png]</span><br>
 <img width="251" alt="android6" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/a520eeac-8283-4aa4-9210-190823e859a4"><br>
 <span>[android7.png]</span><br>
 <img width="257" alt="android7" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/accbc0f0-02aa-425d-be98-c7f116d172fb"><br>
+<p>Updated result displayed as follows:</p>
 <span>[android8.png]</span><br>
-<img width="254" alt="android8" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/a003f980-a8f3-43e8-94fa-21a6d3a78c07"><br>
+<img width="254" alt="android8" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/e87971de-8b45-48b3-9e29-19c736e798f5"><br>
 
 <h2>DELETE</h2>
 <span>[android9.png]</span><br>
