@@ -125,7 +125,8 @@ public class MainActivity extends AppCompatActivity {
                     assert createTaskResponse != null;
                     CreateTaskResponse.CreateTaskResponseData data=createTaskResponse.getData();
                     List<Integer> liRowsAffected=data.getRowsAffected();
-                    showInfoMsgDialogOK(context, "Rows affected is " + liRowsAffected.toString(), null);
+                    showInfoMsgDialogOK(context, "Create Response: Rows affected is " + liRowsAffected.toString(), null);
+                    getListMapTask();
                 }
                 else{
                     showErrorMsgDialogOK(context,response.code()+": Some error happened when adding task");

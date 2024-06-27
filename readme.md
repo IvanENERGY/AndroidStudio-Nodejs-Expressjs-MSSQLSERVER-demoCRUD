@@ -1,11 +1,10 @@
-<h1>-----------------Front end In Construction-----------------</h1>
 <h1>Project Introduction</h1>
 <p>This is a demo CRUD applicaton Build using </p>
 <table>
 <tbody>
   <tr>
     <th>Frontend</th>
-    <td> ReactNative</td>
+    <td> Android Studio</td>
   </tr>
   <tr>
     <th rowspan="2">Backend</th>
@@ -25,3 +24,30 @@
 <ul>
 <li>Basic CRUD operation</li>
 </ul>
+<h1>Screenshots</h1>
+<h2>READ</h2>
+<span>[android1.png]</span><br>
+<img width="265" alt="android1" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/6af65baa-cef0-46bc-86c1-00f32d7d006d"><br>
+<h2>CREATE</h2>
+<span>[android2.png]</span><br>
+<img width="261" alt="android2" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/819538cc-48ca-43be-9b3f-d1becee135a7"><br>
+<span>[android3.png]</span><br>
+<img width="268" alt="android3" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/62932431-3a56-4b19-9901-564ea6ad1c6b"><br>
+<span>[android4.png]</span><br>
+<img width="266" alt="android4" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/f182fa52-70fc-42e1-af51-c2a6128ccdfe"><br>
+
+<h2>UPDATE</h2>
+<span>[android5.png]</span><br>
+<img width="265" alt="android5" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/594cb8df-11ed-4280-96d8-a7de77f87ce5"><br>
+<span>[android6.png]</span><br>
+<img width="251" alt="android6" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/a520eeac-8283-4aa4-9210-190823e859a4"><br>
+<span>[android7.png]</span><br>
+<img width="257" alt="android7" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/accbc0f0-02aa-425d-be98-c7f116d172fb"><br>
+<span>[android8.png]</span><br>
+<img width="254" alt="android8" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/a003f980-a8f3-43e8-94fa-21a6d3a78c07"><br>
+
+<h2>DELETE</h2>
+<span>[android9.png]</span><br>
+<img width="262" alt="android9" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/66452e81-a12a-418e-b9bb-7ffbc532d4a1"><br>
+<span>[android10.png]</span><br>
+<img width="268" alt="android10" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/2c4294d2-f2d3-46d8-9b53-face8733f557"><br>

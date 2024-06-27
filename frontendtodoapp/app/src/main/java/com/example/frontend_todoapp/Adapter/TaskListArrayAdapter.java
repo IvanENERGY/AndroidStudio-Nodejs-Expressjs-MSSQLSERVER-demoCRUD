@@ -158,7 +158,7 @@ public class TaskListArrayAdapter extends ArrayAdapter  {
                     assert deleteTaskResponse != null;
                     DeleteTaskResponse.DeleteTaskResponseData data=deleteTaskResponse.getData();
                     List<Integer> liRowsAffected=data.getRowsAffected();
-                    showInfoMsgDialogOK(context, "Rows affected is " + liRowsAffected.toString(), null);
+                    showInfoMsgDialogOK(context, "Delete Response: Rows affected is " + liRowsAffected.toString(), null);
                     ((MainActivity)context).getListMapTask();
                 }
                 else{
@@ -184,7 +184,7 @@ public class TaskListArrayAdapter extends ArrayAdapter  {
                     assert updateTaskResponse != null;
                     UpdateTaskResponse.UpdateTaskResponseData data=updateTaskResponse.getData();
                     List<Integer> liRowsAffected=data.getRowsAffected();
-                    showInfoMsgDialogOK(context, "Rows affected is " + liRowsAffected.toString(), null);
+                    showInfoMsgDialogOK(context, "Update Response: Rows affected is " + liRowsAffected.toString(), null);
                     ((MainActivity)context).getListMapTask();
                 }
                 else{
