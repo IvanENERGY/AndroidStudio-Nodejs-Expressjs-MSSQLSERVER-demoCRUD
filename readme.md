@@ -26,10 +26,10 @@
 <li>Basic CRUD operation</li>
 </ul>
 <h1>Screenshots</h1>
-<h2>READ</h2>
+<h2>&#128308;READ</h2>
 <span>[android1.png]</span><br>
 <img width="265" alt="android1" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/6af65baa-cef0-46bc-86c1-00f32d7d006d"><br>
-<h2>CREATE</h2>
+<h2>&#128308;CREATE</h2>
 <span>[android2.png]</span><br>
 <img width="261" alt="android2" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/819538cc-48ca-43be-9b3f-d1becee135a7"><br>
 <span>[android3.png]</span><br>
@@ -41,7 +41,7 @@
 <p>Newly created record is displayed on the list:</p>
 <img width="256" alt="android4_2" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/550293bd-e3e0-47c2-b4bf-bea7ced9c04b"><br>
 
-<h2>UPDATE</h2>
+<h2>&#128308;UPDATE</h2>
 <p>Press UPDATE button on the newly added record</p>
 <span>[android5.png]</span><br><p>The original value of the record is displayed:</p>
 <img width="263" alt="android5" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/c62e1d50-3c9e-4362-9286-8102b52a6a65"><br>
@@ -53,7 +53,7 @@
 <span>[android8.png]</span><br>
 <img width="259" alt="android8" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/73b26b9f-337c-4eba-b594-8ad125ee865a"><br>
 
-<h2>DELETE</h2>
+<h2>&#128308;DELETE</h2>
 <span>[android9.png]</span><br>
 <img width="260" alt="android9" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/9718df11-961b-4d4e-81b4-46199198f91b"><br>
 <span>[android10.png]</span><br>
