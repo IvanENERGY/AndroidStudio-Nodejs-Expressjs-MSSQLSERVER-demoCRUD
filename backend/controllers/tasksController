@@ -8,8 +8,8 @@ module.exports={
     index:(req,res,next)=>{
         sql.connect(config).then(()=>{
         let sqlRequest= new sql.Request();
-        //return sqlRequest.query(`select * from Task`)
-        return sqlRequest.execute('sp_GetAllTask')
+        return sqlRequest.query(`select * from Task`)
+        //return sqlRequest.execute('sp_GetAllTask')
         })
         .then((result)=>{
             res.locals.data=result.recordset;
@@ -26,8 +26,8 @@ module.exports={
         sql.connect(config).then(()=>{
             let sqlRequest= new sql.Request();
             return sqlRequest.input('id',sql.Int,id)
-                          //  .query(`select * from Task WHERE id = @id`)
-                            .execute('sp_GetOneTask')
+                            .query(`select * from Task WHERE id = @id`)
+                           // .execute('sp_GetOneTask')
             })
             .then((result)=>{
                 res.locals.data=result.recordset[0];
@@ -53,9 +53,9 @@ module.exports={
                             .input('deadline',sql.Date,task.deadline)
                             .input('reps',sql.Int,task.reps)
                             .input('filePath',sql.NVarChar,task.filePath)
-                            //.query(`Insert into Task (taskName,deadline,reps,filePath)
-				                   // values(@taskName,@deadline,@reps,@filePath )`)
-                            .execute('sp_CreateTask')
+                            .query(`Insert into Task (taskName,deadline,reps,filePath)
+				                    values(@taskName,@deadline,@reps,@filePath )`)
+                            //.execute('sp_CreateTask')
                             
         })
         .then((result)=>{
@@ -84,13 +84,13 @@ module.exports={
                             .input('reps',sql.Int,task.reps)
                             .input('filePath',sql.NVarChar,task.filePath)
 
-                            // .query(`UPDATE Task
-                            //         SET taskName= @taskName,
-                            //             deadline=@deadline,
-                            //             reps=@reps,
-                            //             filePath=@filePath 
-                            //         WHERE id=@id`)
-                            .execute('sp_UpdateTask')
+                            .query(`UPDATE Task
+                                    SET taskName= @taskName,
+                                        deadline=@deadline,
+                                        reps=@reps,
+                                        filePath=@filePath 
+                                    WHERE id=@id`)
+                            //.execute('sp_UpdateTask')
         })
         .then((result)=>{ 
                     res.locals.data=result;
@@ -108,8 +108,8 @@ module.exports={
         sql.connect(config).then(()=>{
             let sqlRequest= new sql.Request();
             return sqlRequest.input('id',sql.Int,req.params.id)
-                           // .query(`DELETE FROM Task WHERE id=@id`)
-                            .execute('sp_DeleteTask')
+                            .query(`DELETE FROM Task WHERE id=@id`)
+                            //.execute('sp_DeleteTask')
         })
         .then((result)=>{
             res.locals.data=result;

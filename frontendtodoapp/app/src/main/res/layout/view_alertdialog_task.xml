@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#EBF9FF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter Task Name:"
+            android:textAlignment="viewEnd"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+        <EditText
+            android:id="@+id/etTaskName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Task Name"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter Deadline:"
+            android:textAlignment="viewEnd"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+        <EditText
+            android:id="@+id/etDeadline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Deadline"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            android:inputType="date"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter Reps:"
+            android:textAlignment="viewEnd"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+        <EditText
+            android:id="@+id/etReps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Reps"
+            android:layout_weight="1"
+            android:inputType="number"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter FilePath:"
+            android:textAlignment="viewEnd"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+        <EditText
+            android:id="@+id/etFilePath"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter FilePath"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+</LinearLayout>
