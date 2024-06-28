@@ -14,7 +14,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
     private static Retrofit retrofit;
-    private static String BASE_URL="http://192.168.1.17:3000/api/"; //last char. must be backslash
+    private static String BASE_URL="http://192.168.1.6:3000/api/"; //last char. must be backslash
 
     public static Retrofit getRetrofitInstance() {
         if (retrofit == null) {
