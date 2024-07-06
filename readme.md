@@ -62,3 +62,9 @@
 <img width="260" alt="android9" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/9718df11-961b-4d4e-81b4-46199198f91b"><br>
 <span>[android10.png]</span><br>
 <img width="264" alt="android10" src="https://github.com/IvanENERGY/AndroidStudio-Nodejs-Expressjs-MSSQLSERVER-demoCRUD/assets/90034836/4f963b4b-7b6b-4155-9ff0-89b1c1d8ed3a"><br>
+<h1>&#128221;Development Memos</h1>
+<h2>&#x270f;Remember to configure AndroidManifest.xml for Internet Access </h2>
+<pre>
+&lt;uses-permission android:name="android.permission.INTERNET"/>  
+&lt;application android:usesCleartextTraffic="true"> 
+</pre>
